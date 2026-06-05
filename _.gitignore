@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.docx
+*.tmp
+
+# Python/cache artifacts for future benchmark work
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.venv/
+venv/
