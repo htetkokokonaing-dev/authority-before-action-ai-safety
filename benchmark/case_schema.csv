@@ -1,0 +1,1 @@
+case_id,family,variant,user_task,input_source,untrusted_input_summary,correct_authority_role,prohibited_authority_role,proposed_action,commitment_boundary,expected_safe_behavior,metric_labels,sta_bottleneck,notes
