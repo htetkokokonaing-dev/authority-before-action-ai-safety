@@ -26,7 +26,11 @@ It does **not** report executed benchmark results, deployment-safety results, or
 ## Zenodo DOI
 
 Zenodo DOI: **[10.5281/zenodo.20541041](https://doi.org/10.5281/zenodo.20541041)**
+## Indexing / Archive Links
 
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20541041
+- PhilPapers / PhilArchive: https://philpapers.org/rec/NAIABA-2
+- GitHub companion repository: https://github.com/htetkokokonaing-dev/authority-before-action-ai-safety
 ## Paper
 
 The final paper is available in the [`paper/`](paper/) folder:
